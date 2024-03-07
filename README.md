@@ -8,7 +8,7 @@ Soy un desarrollador frontend junior autodidacta con un enfoque especializado en
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [matias279ah@gmail.com](mailto:matias279ah@gmail.com)
-* 🧠  I'm learning React, Nextjs, MongoDB
+* 🧠  I'm learning Redux, Nextjs, TypeScript
 * ⚡  I love The Coffee
 
 ### Skills
