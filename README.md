@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matias
 ==============================================================================================================================
 
-Front End Developer
+QA Sofware Tester
 -------------------
 
-Soy un desarrollador frontend junior autodidacta con un enfoque especializado en React. Mi pasión por la creación de interfaces de usuario atractivas me ha llevado a aprender continuamente y buscar oportunidades para aplicar mis conocimientos en entornos profesionales.
+Soy un QA Software Tester junior graduado en Ingeniería de Software, con un enfoque especializado en asegurar la calidad de aplicaciones web. Me estoy especializando en Cypress y tengo conocimientos en Postman, Jira y JMeter. Mi pasión por garantizar la excelencia del software me ha llevado a aprender continuamente y buscar oportunidades para aplicar mis conocimientos en entornos profesionales.
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [matias279ah@gmail.com](mailto:matias279ah@gmail.com)
-* 🧠  I'm learning Redux, Nextjs, TypeScript
+* 🧠  I'm learning Cypress, Appium, Selenium
 * ⚡  I love The Coffee
 
 ### Skills
