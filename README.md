@@ -23,5 +23,5 @@ Check out my repositories for some of the projects I've been working on, where I
 ## 🤝 Let's Connect
 I'm always open to collaborating on data-related projects or discussing new opportunities. Feel free to reach out!
 
-[LinkedIn](Your LinkedIn URL) | [Email](Your Email Address)
+ matias279ah@gmail.com
 
