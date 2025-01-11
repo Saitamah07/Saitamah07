@@ -1,7 +1,7 @@
 
 # Hi there! I'm Matias Alvarez 👋
 
-I'm a Software Engineer transitioning into Data Analytics. I have a passion for turning data into actionable insights and I'm continuously learning new tools and techniques to improve my skill set.
+I’m a Software Engineer with a strong interest in Data Analytics. I am passionate about using data to generate meaningful insights and continuously improving my skill set in this field.
 
 ## 📚 Skills & Tools
 - **SQL**: Basic proficiency in querying databases, working with joins, subqueries, and aggregate functions.
