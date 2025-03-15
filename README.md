@@ -1,4 +1,4 @@
-# ¡Hola, soy [Matias Alvarez Hernandez]! 👋
+# ¡Hola, soy Matias Alvarez Hernandez! 👋
 
 Soy un apasionado Ingeniero de Datos en formación, enfocado en transformar datos en información accionable. Me especializo en el diseño y la implementación de pipelines de datos, análisis predictivo y visualización de información. Actualmente, busco oportunidades como Ingeniero de Datos Junior para seguir creciendo y aportar soluciones escalables.
 
