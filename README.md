@@ -13,9 +13,8 @@ Soy un apasionado Ingeniero de Datos en formación, enfocado en transformar dato
 
 ## 🔍 Proyectos Destacados
 
-- **Pipeline de Datos para Análisis de Ventas:** Integración de datos desde múltiples fuentes y limpieza de información para análisis de KPIs.
-- **Dashboard Interactivo:** Creación de dashboards dinámicos para visualizar métricas empresariales y tomar decisiones basadas en datos.
-- **Análisis Predictivo:** Desarrollo de modelos predictivos utilizando Python y técnicas de Machine Learning para identificar tendencias en el mercado.
+- **Data Warehousing:**   Desarrollé un proyecto completo de data warehousing utilizando SQL, en el cual apliqué la arquitectura Medallion para estructurar y optimizar los datos en capas (Bronce, Plata y Oro). Además, realicé un análisis exploratorio para identificar insights relevantes, validar la calidad de los datos y proponer mejoras en el flujo de información.
+
 
 ## 🎯 Objetivos
 
