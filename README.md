@@ -13,7 +13,8 @@ Soy un apasionado Ingeniero de Datos en formación, enfocado en transformar dato
 
 ## 🔍 Proyectos Destacados
 
-- **Data Warehousing:**   Desarrollé un proyecto completo de data warehousing utilizando SQL, en el cual apliqué la arquitectura Medallion para estructurar y optimizar los datos en capas (Bronce, Plata y Oro). Además, realicé un análisis exploratorio para identificar insights relevantes, validar la calidad de los datos y proponer mejoras en el flujo de información.
+- **Data Warehousing:**   Desarrollé un proyecto completo de data warehousing utilizando SQL, en el cual apliqué la arquitectura Medallion para estructurar y optimizar los datos en capas (Bronce, Plata y Oro).
+- **Exploratory Analysis**  realicé un análisis exploratorio para identificar insights relevantes, validar la calidad de los datos y proponer mejoras en el flujo de información.
 
 
 ## 🎯 Objetivos
