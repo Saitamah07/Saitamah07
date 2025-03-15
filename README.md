@@ -22,7 +22,7 @@ Mi objetivo es contribuir a equipos que busquen optimizar procesos de datos y de
 
 ## 📫 Contacto
 
-- [LinkedIn](https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/matiasalvarezh/))
+- [LinkedIn](https://www.linkedin.com/in/matiasalvarezh/))
 ---
 
 ¡Gracias por visitar mi perfil y no dudes en contactarme para colaborar en proyectos desafiantes!
