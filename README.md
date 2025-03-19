@@ -5,10 +5,10 @@ I'm a passionate Data Engineer by training, focused on transforming data into ac
 ## 💻 Technologies and Tools.
 
 - **Languages:** Python, SQL
-- Frameworks and Libraries:** Pandas, NumPy, Spark, Airflow, Tensorflow 
-- Databases:** PostgreSQL, MySQL, MongoDB
-- ETL & Pipelines:** ETL process design, implementation and automation
-- Cloud:** Basic knowledge in AWS, Azure and GCP
+- **Frameworks and Libraries:** Pandas, NumPy, Spark, Airflow, Tensorflow 
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **ETL & Pipelines:** ETL process design, implementation and automation
+- **Cloud:** Basic knowledge in AWS, Azure and GCP
 - **Visualization:** Power BI, Tableau
 
 ## 🔍 Featured Projects.
