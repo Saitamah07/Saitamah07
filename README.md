@@ -1,6 +1,6 @@
 # Hi, I'm Matias Alvarez Hernandez! 👋
 
-I'm a passionate Data Engineer by training, focused on transforming data into actionable information. I specialize in the design and implementation of data pipelines, predictive analytics and information visualization. Currently, I am looking for opportunities as a Junior Data Engineer to continue to grow and bring scalable solutions.
+I'm a passionate Data Analysts by training, focused on transforming data into actionable information. I specialize in the design and implementation of data pipelines, predictive analytics and information visualization. Currently, I am looking for opportunities as a Junior Data Engineer to continue to grow and bring scalable solutions.
 
 ## 💻 Technologies and Tools.
 
