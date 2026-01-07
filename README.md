@@ -21,8 +21,4 @@ I'm a passionate Data Analysts by training, focused on transforming data into ac
 
 My goal is to contribute to teams looking to optimize data processes and develop innovative solutions based on information analysis. I am passionate about continuous learning and the application of cutting-edge technologies in real projects.
 
-## 📫 Contact.
 
-- [LinkedIn](https://www.linkedin.com/in/matia
-
-Translated with DeepL.com (free version)
