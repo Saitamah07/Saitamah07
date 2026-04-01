@@ -11,11 +11,6 @@ I'm a passionate Data Analysts by training, focused on transforming data into ac
 - **Cloud:** Basic knowledge in AWS, Azure and GCP
 - **Visualization:** Power BI, Tableau
 
-## 🔍 Featured Projects.
-
-- **Data Warehousing:** I developed a complete data warehousing project using SQL, in which I applied Medallion architecture to structure and optimize data in layers (Bronze, Silver and Gold).
-- **Exploratory Analysis** I performed an exploratory analysis to identify relevant insights, validate data quality and propose improvements in the information flow.
-
 
 ## 🎯 Objectives.
 
